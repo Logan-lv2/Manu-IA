@@ -15,8 +15,8 @@ Un bot WhatsApp utilisant la bibliothèque whatsapp-web.js avec des commandes po
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-utilisateur/manu-ia-whatsapp-bot.git
-cd manu-ia-whatsapp-bot
+git clone https://github.com/Logan-lv2/Manu-IA.git
+cd Manu-IA
 
 # Installer les dépendances
 npm install
